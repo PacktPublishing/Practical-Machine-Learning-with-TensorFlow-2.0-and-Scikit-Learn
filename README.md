@@ -1,6 +1,3 @@
-# Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow-2.0
-Hands-On Machine Learning with Scikit-Learn and TensorFlow 2.0 [Video], published by Packt
-
 This is the code repository for [ Hands-On Machine Learning with Scikit-Learn and TensorFlow 2.0 [Video]](https://www.packtpub.com/data/hands-on-machine-learning-with-scikit-learn-and-tensorflow-2-0-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Have you been looking for a course that teaches you effective machine learning in scikit-learn and TensorFlow 2.0? Or have you always wanted an efficient and skilled working knowledge of how to solve problems that can't be explicitly programmed through the latest machine learning techniques?
