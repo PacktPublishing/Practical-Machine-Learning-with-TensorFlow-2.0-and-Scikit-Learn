@@ -46,3 +46,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 * [Machine Learning Projects with TensorFlow 2.0 [Video]](https://www.packtpub.com/data/machine-learning-projects-with-tensorflow-2-0-video)
 
 * [Deep Learning with TensorFlow 2.0 in 7 Steps [Video]](https://www.packtpub.com/data/deep-learning-with-tensorflow-2-0-in-7-steps-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789959161">https://packt.link/free-ebook/9781789959161 </a> </p>
